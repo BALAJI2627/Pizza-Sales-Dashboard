@@ -25,9 +25,9 @@ This Power BI dashboard provides an insightful analysis of pizza sales data, hel
    - Heatmaps and KPIs for better visualization.
 
 ## 📥 **Download Report**
-[Click Here to Download](./Pizza_Sales_Report.pbix)
+[Click Here to Download](Pizza_Sales/Pizza_project.pbix)
 
-## 📸 **Dashboard Previews**
+## **Dashboard Previews**
 
 ## 📸 **Home Page Preview**
 
