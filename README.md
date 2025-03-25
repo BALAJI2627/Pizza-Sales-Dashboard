@@ -27,6 +27,8 @@ This Power BI dashboard provides an insightful analysis of pizza sales data, hel
 ## 📥 **Download Report**
 [Click Here to Download](./Pizza_Sales_Report.pbix)
 
+## 📸 **Dashboard Previews**
+
 ## 📸 **Home Page Preview**
 
 ![Dashboard Overview](./images/Home_View.png)
